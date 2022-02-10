@@ -4,9 +4,10 @@
 
 ## Requirements
 Jfree Chart – Converts data into chart.
+
 Simple json – Converts Api data into json format.
-The components described above work in harmony and give us the working project of
-cryptocurrency analyzer.
+
+The components described above work in harmony and give us the working project of cryptocurrency analyzer.
 
 ## Usage
 
