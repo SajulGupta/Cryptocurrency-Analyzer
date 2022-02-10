@@ -14,7 +14,7 @@ import java.net.URL;
 import java.util.Scanner;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
-import org.json.simple.JSONValue;
+import org.json.simple.JSONValue
 
 
 class frames extends JFrame implements ActionListener{
