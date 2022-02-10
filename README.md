@@ -15,7 +15,7 @@ First clone the Repository on your local computer
 git clone https://github.com/SajulGupta/Cryptocurrency-Analyzer.git
 
 ```
-Then, replace [`[YOUR-API-KEY]`] with your own API key in GraphPanel.java file
+Then, replace `[YOUR-API-KEY]` with your own API key in GraphPanel.java file
 ```text
 static String api_key = "Your API Key";
 ```
