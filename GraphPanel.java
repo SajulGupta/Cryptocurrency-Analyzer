@@ -181,6 +181,10 @@ class frames extends JFrame implements ActionListener{
 
 
 public class GraphPanel{
+    
+    static String api_key = "[YOUR-API-KEY]";
+    
+    
     public static void main(String[] args){
         String inline = "";
         JSONArray btcprices = new JSONArray();
@@ -193,7 +197,7 @@ public class GraphPanel{
 
         try
         {
-            URL url = new URL("https://api.nomics.com/v1/currencies/sparkline?key=0ca4a522844a0d38e6e80531e87830a9&ids=ETH,LTC,BTC,DASH,DOGE,ZEC&start=2021-04-01T00%3A00%3A00Z&end=2021-05-14T00%3A00%3A00Z");
+            URL url = new URL("https://api.nomics.com/v1/currencies/sparkline?key=" + api_key + "&ids=ETH,LTC,BTC,DASH,DOGE,ZEC&start=2021-04-01T00%3A00%3A00Z&end=2021-05-14T00%3A00%3A00Z");
 
             HttpURLConnection conn = (HttpURLConnection)url.openConnection();
             conn.setRequestMethod("GET");
