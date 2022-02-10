@@ -3,9 +3,9 @@
 
 
 ## Requirements
-Jfree Chart – Converts data into chart.
+Jfree Chart – For visualizing data into chart.
 
-Simple json – Converts Api data into json format.
+Simple json – For converting API data into json format.
 
 ## Usage
 
