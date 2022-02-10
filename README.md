@@ -3,7 +3,7 @@
 
 
 ## Requirements
-Nomics API - For fetching data
+Nomics API – For fetching data
 
 Jfree Chart – For visualizing data into chart.
 
