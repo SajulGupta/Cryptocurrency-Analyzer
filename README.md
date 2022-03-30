@@ -1,6 +1,6 @@
 # Cryptocurrency-Analyzer
 ## About
-Simple Cryptocurrency Analyzer application impleamented using swing.
+Simple Cryptocurrency Analyzer application implemented using swing.
 
 ## Requirements
 Nomics API – For fetching data.
